@@ -1,0 +1,9 @@
+# Python
+*.pyc
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Variables de entorno
+.env
