@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Preprocesamiento Ciencia de Datos
 
 ## Objetivo
@@ -11,3 +12,6 @@ preprocesamiento-ciencia-datos/
 ├── DOCUMENTACION.md
 ├── preprocesamiento.py
 └── .gitignore
+=======
+# preprocesamiento-ciencia-datos
+>>>>>>> ba8ba8af00e8bdd4faef411cd7a2379c5cdc0d59
